@@ -86,11 +86,12 @@
 
 
         <!--WEBJARS -->
-        <dependency>
-            <groupId>org.webjars.bower</groupId>
-            <artifactId>bootstrap</artifactId>
-            <version>3.3.7</version>
-        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.webjars/bootstrap -->
+		<dependency>
+		    <groupId>org.webjars</groupId>
+		    <artifactId>bootstrap</artifactId>
+		    <version>4.4.1-1</version>
+		</dependency>
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>font-awesome</artifactId>
